@@ -1,0 +1,25 @@
+#Ignore executable files
+
+*.exe
+
+#Ignore object files
+
+*.o
+
+*.obj
+
+#ignore DEV-c++ files 
+
+*.dev
+
+*.layout
+
+#Ignore temp/backup files 
+
+*.tmp
+
+*.bak
+
+#Ignore compiled binaries
+
+*.out
